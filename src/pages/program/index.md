@@ -6,7 +6,7 @@ title: >-
 main:
   description: >-
     Nowadays we can't even imagine how to hold a conference without
-    telecommunication technologies. Yet again operating rooms of Oberig clinic
+    telecommunication technologies. Yet again operating rooms of "Oberig" clinic
     will be opened for all participants thanks to KARL STORZ Ukraine. Prominent
     surgeons from among our speakers are going to perform a number of surgical
     procedures under the sights of the cameras: all mentioned supported by 
