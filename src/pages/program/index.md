@@ -5,14 +5,15 @@ title: >-
   conference program (follow the updates)
 main:
   description: >-
-    Проведення наукових форумів неможливе без використання телекомуніуаційних
-    технологій. Вже вкотре завдяки компанії KARL STORZ Україна двері своїх
-    операційних відкриє для учасників конференції Універсальна клініка "Оберіг".
-    Під "прицілом" відеокамер провідні спеціалісти виконають ряд втручань, які
-    можна буде дивитись в режимі реального часу; відеоконференція забезпечить
-    спілкування конференц-залу з операційною бригадою, із можливістю задати
-    будь-яке питання щодо операції і негайно отримати коментарі.
-  heading: Жива хірургія
+    Nowadays we can't eve imagine how to hold a conference without
+    telecommunication technologies. Yet again operating rooms of Oberig clinic
+    will be opened for all participants thanks to KARL STORZ Ukraine. Prominent
+    surgeons from among our speakers are going to perform a number of surgical
+    procedures under the sights of the cameras: all mentioned supported by 
+    online broadcasting. Real-time video-conference will provide communication
+    between participants and surgical teams with a possibility to ask any
+    question and get an immediate comment.
+  heading: Live surgery
   image1:
     alt: '?'
     image: /img/zhiv.jpg
