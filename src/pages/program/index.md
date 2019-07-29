@@ -5,14 +5,14 @@ title: >-
   conference program (follow the updates)
 main:
   description: >-
-    Nowadays we can't eve imagine how to hold a conference without
+    Nowadays we can't even imagine how to hold a conference without
     telecommunication technologies. Yet again operating rooms of Oberig clinic
     will be opened for all participants thanks to KARL STORZ Ukraine. Prominent
     surgeons from among our speakers are going to perform a number of surgical
     procedures under the sights of the cameras: all mentioned supported by 
     online broadcasting. Real-time video-conference will provide communication
-    between participants and surgical teams with a possibility to ask any
-    question and get an immediate comment.
+    between participants in the meeting room and surgical teams with a
+    possibility to ask any question and to receive an immediate comment.
   heading: Live surgery
   image1:
     alt: '?'
