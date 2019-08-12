@@ -2,7 +2,7 @@
 templateKey: workshop-page
 title: Workshop
 ---
-![](/img/20141001_164555.jpg)
+![](/img/laparoscopic-trainer-box-surgery-practicing-surgical-training1.jpg)
 
 ### attention!
 
