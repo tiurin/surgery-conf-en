@@ -8,7 +8,7 @@ The workshop "HOW I DO IT" within the VII INTERNATIONAL SCIENTIFIC AND PRACTICAL
 
 
 
-Our distinguished speakers - professors Manuel Lopez (Spain), Jorge godoy Lenz  (Chili), Munther Haddat (UK) and host of a conference – Oleg Godik (Ukraine) are going to share their experience and information on best practices in laparoscopic surgery. The workshop will consist of lectures and practical exercises in two modes: training-boxes&simulations and performing surgeries' stages on anatomic models (rabbits).
+Our distinguished speakers - professors Manuel Lopez (Spain), Jorge Godoy Lenz  (Chili), Munther Haddat (UK) and host of a conference – Oleg Godik (Ukraine) are going to share their experience and information on best practices in laparoscopic surgery. The workshop will consist of lectures and practical exercises in two modes: training-boxes&simulations and performing surgeries' stages on anatomic models (rabbits).
 
 
 
