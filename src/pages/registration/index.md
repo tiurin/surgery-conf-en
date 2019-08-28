@@ -3,11 +3,11 @@ templateKey: registration-page
 title: Registration
 pricing:
   description: >-
-    An early conference registration is already terminated. Late registration
-    deadline is 01.09.2019.  Costs include coffee-breaks and lunch. Prices are
-    mentioned in Ukrainian Hryvnia. Places are limited to 120 people. By now
-    we've got 119 participants. On-site registration assumes that 2500₴ must be
-    payed by a surgeon & young surgeon and 1000₴ by a student
+    Conference registration is terminated. By now we've got 120 participants
+    according to previously announced limit. On-site registration is still
+    possible; it assumes that 2500₴ must be payed by a surgeon & young surgeon
+    and 1000₴ by a student, but subject to the availability of seats. Contact
+    organizers for additional information  (Contact page)
   heading: Modalities of participation
   plans:
     - description: '>5 years after internship training'
@@ -34,4 +34,4 @@ pricing:
 ---
 ### Registration form
 
-can be found [here](https://dariadiehtiarova.typeform.com/to/APLqPo)
+is closed to new responses
