@@ -6,7 +6,7 @@ pricing:
     Conference registration is terminated. By now we've got 120 participants
     according to previously announced limit. On-site registration is still
     possible; it assumes that 2500₴ must be payed by a surgeon & young surgeon
-    and 1000₴ by a student, but subject to the availability of seats. Contact
+    and 1000₴ by a student, but is subject to the availability of seats. Contact
     organizers for additional information  (Contact page)
   heading: Modalities of participation
   plans:
