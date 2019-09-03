@@ -50,7 +50,7 @@ main:
 
 ### 9.15-9.45 Сучасне використання роботохірургії в дитячій урології
 
-### Current status of robotic surgery in pediatric Urology 
+### Current status of robotic surgery in pediatric Urology
 
 ### Євген Миневич (США) / Eugene Minevich (USA)
 
@@ -66,7 +66,7 @@ main:
 
 ### 10.15-10.45 Консервативна хірургія нирки при нефробластомі
 
-### Conservative renal surgery for nephroblastoma 
+### Conservative renal surgery for nephroblastoma
 
 ### Адрю Жорже (Франція) / Audry Georges (France)
 
@@ -88,9 +88,9 @@ main:
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### 13.45 -14.15. Торакоскопічне лікування ексудативного перикардиту 
+### 13.45 -14.15. Торакоскопічне лікування ексудативного перикардиту
 
-### Managment of pericardial effusion by thoracoscopy 
+### Managment of pericardial effusion by thoracoscopy
 
 ### Мануель Лопез (Іспанія) / Manuel Lopez (Spain)
 
@@ -98,7 +98,7 @@ main:
 
 ### 14.15-14.45. Лікування діафрагмальної кили із використанням малоінвазивних технологій
 
-### MIS diaphragmatic hernia 
+### MIS diaphragmatic hernia
 
 ### Хорхе Годой Ленц (Чілі) / Jorge Godoy Lenz (Chili)
 
@@ -118,21 +118,21 @@ main:
 
 ### 1-OR – 1 етап Діагностична лапароскопія – видалення гонад
 
-### 	2 етап Пластика дистальної уретри
+### 2 етап Пластика дистальної уретри
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### 16.55 - 17.25 Сучасний підхід до лікування уролітіазу в педіатричній практиці із використанням малоінвазивних технологій
 
-### Management of the pediatric urolithiasis, in particularly current miniinvasive approach 
+### Management of the pediatric urolithiasis, in particularly current miniinvasive approach
 
 ### Сердар Текгюль (Туреччина) / Serdar Tekgül (Turkey)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### 17.25 -17.45 Нефролітіаз в педіатричній практиці: ситуація, що потребує мультидисциплінарного підходу в умовах спеціалізованого центру для дітей з сечокам’яною хворобою 
+### 17.25 -17.45 Нефролітіаз в педіатричній практиці: ситуація, що потребує мультидисциплінарного підходу в умовах спеціалізованого центру для дітей з сечокам’яною хворобою
 
-### Pediatric Nephrolithiasis: The Case for a Multi-Disciplinary Pediatric Stone Center 
+### Pediatric Nephrolithiasis: The Case for a Multi-Disciplinary Pediatric Stone Center
 
 ### Євген Миневич (США) / Eugene Minevich (USA)
 
@@ -140,7 +140,7 @@ main:
 
 ### 17.45 – 18.15 Коли та як? Пластика лоханочно-сечоводного сегменту
 
-### When and How? UPJ repair. 
+### When and How? UPJ repair.
 
 ### Сердар Текгюль (Туреччина) / Serdar Tekgül (Turkey)
 
@@ -148,7 +148,7 @@ main:
 
 ### 18.15–18.45 Лапароскопічне лікування обструктивного мегауретеру
 
-### Managment of OMGU by laparoscopy 
+### Managment of OMGU by laparoscopy
 
 ### Мануель Лопез (Іспанія) / Manuel Lopez (Spain)
 
@@ -176,7 +176,7 @@ main:
 
 ### 9.00-9.30 Лапароскопічне лікування атрезії дванадцятипалої кишки
 
-### Duodenal atresia laparoscopic approach 
+### Duodenal atresia laparoscopic approach
 
 ### Хорхе Годой Ленц (Чілі) / Jorge Godoy Lenz (Chili)
 
@@ -202,19 +202,21 @@ main:
 
 ### Long-term follow-up after surgical management for Hirschprung disease in children
 
-### Олександр Гладкий (Україна) / Olexandr Gladky (Ukraine) 
+### Олександр Гладкий (Україна) / Olexandr Gladky (Ukraine)
 
-### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+### 
 
-### 10.40-10.50 Досвід використання ендоваскулярної емболізації селезінкової артерії для корекції важкого гіперспленізму у дітей з портальною гіпертензією. 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### 10.40-10.50 Досвід використання ендоваскулярної емболізації селезінкової артерії для корекції важкого гіперспленізму у дітей з портальною гіпертензією.
 
 ### Experience with the application of endovascular spleen artery embolization for severe hypersplenism management in children with portal hypertension
 
-### Кандратьєва Ольга (Білорусь) / Kandratieva Olga (Belarus)
+### Ольга Кандратьєва (Білорусь) / Olga Kandratieva (Belarus)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### 10.50 -11.00 Лігування варикозно-розширених вен стравоходу 
+### 10.50 -11.00 Лігування варикозно-розширених вен стравоходу
 
 ### Band ligation of esophageal varices
 
@@ -226,7 +228,7 @@ main:
 
 ### Surgical management of portal hypertension in children
 
-### Заполянський Андрій (Білорусь) / Zapolianskiy Andrey (Belarus)
+### Андрій Заполянський (Білорусь) / Andrey Zapolianskiy (Belarus)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -260,7 +262,7 @@ main:
 
 ### 14.15-14.45 Хірургічне лікування гіпоспадії
 
-### Surgery of hypospadias 
+### Surgery of hypospadias
 
 ### Удрі Жорже (Франція) / Audry Georges (France)
 
@@ -270,7 +272,7 @@ main:
 
 ### Surgical management of female genital organs developmental anomalies in infants and adolescents
 
-### Бачинська Інна (Україна) / Bachynska Inna (Ukraine)
+### Ірина Гаврилова (Україна) / Iryna Gavrilova (Ukraine)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -278,11 +280,11 @@ main:
 
 ### Foam sclerotherapy for the management of venous malformations in children.
 
-### Мазынский Денис (Білорусь) / Myzinskiy Denis (Belarus)
+### Денис Мазынский (Білорусь) / Denis Myzinskiy (Belarus)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### 15.05-15.15 Диференційний підхід у лікуванні судинних мальформацій у дітей. 
+### 15.05-15.15 Диференційний підхід у лікуванні судинних мальформацій у дітей.
 
 ### Differential approach in vascular malformations management in children
 
@@ -294,7 +296,7 @@ main:
 
 ### Bowel transplant revascularization for esophago-colo-plasty in children
 
-### Аверин Василь (Білорусь) / Averin Vasyl (Belarus)
+### Василь Аверин (Білорусь) / Vasyl Averin (Belarus)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -302,7 +304,7 @@ main:
 
 ### Alternate esophageal replacement options in children
 
-### Дубровін Олександр (Україна) / Dubrovin Oleksandr (Ukraine)
+### Олександр Дубровін  (Україна) / Oleksandr Dubrovin (Ukraine)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -314,11 +316,11 @@ main:
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### 16.20-16.30 Лапароскопія в дитячій та підлітковій гінекології 
+### 16.20-16.30 Лапароскопія в дитячій та підлітковій гінекології
 
 ### Laparoscopy in pediatric and adolescent gynecology
 
-### Бачинська Інна (Україна) / Bachynska Inna (Ukraine)
+### Інна Бачинська (Україна) / Inna Bachynska (Ukraine)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
