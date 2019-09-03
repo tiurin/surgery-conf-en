@@ -1,8 +1,6 @@
 ---
 templateKey: program-page
-title: >-
-  Орієнтовна програма конференції (слідкуйте за оновленнями) Approximate
-  conference program (follow the updates)
+title: Програма конференції / Conference program
 main:
   description: >-
     Nowadays we can't even imagine how to hold a conference without
