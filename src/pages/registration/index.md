@@ -3,8 +3,9 @@ templateKey: registration-page
 title: Registration
 pricing:
   description: >-
-    Conference registration is terminated. By now we've got 120 participants
-    according to previously announced limit. On-site registration is still
+    Conference registration is continued for additional 10 places. The price is
+    going to be as for late registration: - 1750₴-1100₴, and terminated ether
+    after reaching the limit either on 10.09.19. On-site registration will be
     possible; it assumes that 2500₴ must be payed by a surgeon & young surgeon
     and 1000₴ by a student, but is subject to the availability of seats. Contact
     organizers for additional information  (Contact page)
@@ -34,4 +35,4 @@ pricing:
 ---
 ### Registration form
 
-is closed to new responses
+can be found [here](https://dariadiehtiarova.typeform.com/to/APLqPo)
