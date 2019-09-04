@@ -3,7 +3,7 @@ templateKey: registration-page
 title: Registration
 pricing:
   description: >-
-    Conference registration is continued for additional 10 places. The price is
+    Conference registration is continued for additional 5 places. The price is
     going to be as for late registration: - 1750₴-1100₴, and terminated ether
     after reaching the limit either on 10.09.19. On-site registration will be
     possible; it assumes that 2500₴ must be payed by a surgeon & young surgeon
