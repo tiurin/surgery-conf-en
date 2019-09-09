@@ -19,7 +19,7 @@ intro:
       text: Yagotynske for kids
     - image: /img/макет_zdoroveika-out.jpg
       text: Zdorovejka PediaSure
-    - image: /img/biozvaruvannjad.jpg
+    - image: /img/svarmed.jpg
       text: Biozvarjuvannja - SvarMed
 ---
 
