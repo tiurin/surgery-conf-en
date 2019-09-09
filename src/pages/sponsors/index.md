@@ -17,5 +17,9 @@ intro:
       text: Bowa einfach sicher
     - image: /img/ydd_popup-logo.jpg
       text: Yagotynske for kids
+    - image: /img/макет_zdoroveika-out.jpg
+      text: Zdorovejka PediaSure
+    - image: /img/biozvaruvannjad.jpg
+      text: Biozvarjuvannja - SvarMed
 ---
 
