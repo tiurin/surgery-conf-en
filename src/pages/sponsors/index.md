@@ -6,11 +6,16 @@ description: >-
   PEDIATRIC SURGERY & UROLOGY 2019” is possible thanks to our sponsors:
 intro:
   blurbs:
-    - image: /img/images.jpg
+    - image: /img/28.png
       text: |
         KARL STORZ Ukraine
-    - image: /img/no-translate-detected_318-58762.jpg
-      text: |
-        your logo can be here
+    - image: /img/grany-smith-logo-color.jpg
+      text: >
+        Granny Smith - medical equipment for general and laparoscopic surgery,
+        cardiology, traumatology, and sterilization of surgical instruments
+    - image: /img/logo_bowa.jpg
+      text: Bowa einfach sicher
+    - image: /img/ydd_popup-logo.jpg
+      text: Yagotynske for kids
 ---
 
