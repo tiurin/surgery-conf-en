@@ -18,4 +18,4 @@ Places are limited to 15 people.
 
 **Registration will be opened on 10/09/2019 at 08:00 and immediately terminated upon reaching the mentioned quantity of participants.** 
 
-**Watch for updates!**
+**registration form is** [**here**](https://dariadiehtiarova.typeform.com/to/ztNq1Y)****
