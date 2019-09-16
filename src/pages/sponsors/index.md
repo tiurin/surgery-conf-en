@@ -21,5 +21,7 @@ intro:
       text: Zdorovejka PediaSure
     - image: /img/svarmed.jpg
       text: Biozvarjuvannja - SvarMed
+    - image: /img/bbraun-se-green-logo.jpg
+      text: B-braun sharing expertise
 ---
 
